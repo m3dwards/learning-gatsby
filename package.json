@@ -3,6 +3,9 @@
   "description": "Long Mynd Soaring Club Website",
   "version": "1.0.0",
   "author": "Max Edwards",
+  "resolutions": {
+    "source-map": "^0.8.0-beta.0"
+  },
   "dependencies": {
     "bulma": "^0.9.3",
     "gatsby": "^4.13.1",
@@ -29,11 +32,10 @@
     "react-dom": "^17.0.0",
     "react-helmet": "^6.1.0",
     "sass": "^1.51.0",
+    "source-map": "^0.8.0-beta.0",
     "uuid": "^8.3.2"
   },
-  "keywords": [
-    "LMSC"
-  ],
+  "keywords": ["LMSC"],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
@@ -44,8 +46,5 @@
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": ">= 14.15.0"
   }
 }
