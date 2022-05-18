@@ -8,7 +8,7 @@ mainpitch:
   title: Why LMSC?
   description: >
     LMSC is the best flying store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
+    shouldn't just taste good, it should fly good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
