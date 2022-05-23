@@ -1,1 +1,1 @@
-Long Mynd Website
+Learning Gatsby
